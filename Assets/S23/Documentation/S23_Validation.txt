@@ -1,0 +1,14 @@
+S23 Unity verification 2026-11-19 오후 12:47:58
+Scene: Assets/S23/Scenes/S23_CurvedPavilion.unity
+Play Mode: True
+Elapsed game seconds: 3.508475, frame=303
+Missing scripts: 0
+S23_Leaf_2: 441 vertices, 800 triangles
+S23_Leaf_5: 441 vertices, 800 triangles
+S23_Canopy: 1089 vertices, 2048 triangles
+S23_Leaf_4: 441 vertices, 800 triangles
+S23_Leaf_1: 441 vertices, 800 triangles
+S23_Leaf_3: 441 vertices, 800 triangles
+S23_VineStem: SplineExtrude, knots=5, vertices=344
+Final material slots=1, shader passes=2
+Console errors/warnings/logs: 0/0/0
